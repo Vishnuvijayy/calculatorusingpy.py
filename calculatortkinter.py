@@ -3,7 +3,7 @@ window=Tk()
 window.geometry("320x320")
 window.resizable(0,0)
 
-window.title("calculator project by v")
+window.title("calculator project by v ")
 window.configure(bg="grey")
 
 
